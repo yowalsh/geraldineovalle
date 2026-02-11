@@ -3,157 +3,12 @@
     <title>Geraldine Ovalle</title>
     <link href="https://www.geraldineovalle.com/feed.xml" rel="self" />
     <link href="https://www.geraldineovalle.com" />
-    <updated>2022-11-10T09:38:22-04:00</updated>
+    <updated>2022-11-10T09:45:46-03:00</updated>
     <author>
         <name>Geraldine</name>
     </author>
     <id>https://www.geraldineovalle.com</id>
 
-    <entry>
-        <title>Contacto</title>
-        <author>
-            <name>Geraldine</name>
-        </author>
-        <link href="https://www.geraldineovalle.com/contacto/"/>
-        <id>https://www.geraldineovalle.com/contacto/</id>
-
-        <updated>2022-11-09T17:14:12-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Si tienes una idea para una clase, taller o proyecto, o simplemente quieres decirme hola, puedes enviarme un email. Casilla 134, Villarrica, CHILE soy@geraldineovalle.com
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Si tienes una idea para una clase, taller o proyecto, o simplemente quieres decirme hola, puedes enviarme un email.</p>
-<blockquote>
-<h3>Dirección</h3>
-<p>Casilla 134, Villarrica, CHILE</p>
-</blockquote>
-<blockquote>
-<h3>Email</h3>
-<p>soy@geraldineovalle.com</p>
-</blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mi CV</title>
-        <author>
-            <name>Geraldine</name>
-        </author>
-        <link href="https://www.geraldineovalle.com/cv/"/>
-        <id>https://www.geraldineovalle.com/cv/</id>
-
-        <updated>2022-11-10T09:38:22-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Currículum Geraldine Ovalle (.pdf | 198Kb) Desarrollo de un proyecto financiado por FONDART 2014, en Patrimonio inmaterial culinario “HUELLAS Y SABORES DE MUJERES EN LA CORDILLERA” En proceso de término. Elaboración de un recetario del trabajo de investigación patrimonial gastronómica de los participantes del NODO&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"><a href="https://www.geraldineovalle.com/GeraldineOvalle-CV-2014.pdf" target="_blank" rel="noopener noreferrer" class="btn">Currículum Geraldine Ovalle (.pdf | 198Kb)</a></p>
-<h2 class="align-center">Trabajo</h2>
-<blockquote>
-<h3>Responsable del proyecto, Fondart Regional</h3>
-<h6>2014</h6>
-<p>Desarrollo de un proyecto financiado por FONDART 2014, en Patrimonio inmaterial culinario “HUELLAS Y SABORES DE MUJERES EN LA CORDILLERA” En proceso de término.</p>
-</blockquote>
-<blockquote>
-<h3>Compiladora, Libro: Ruta Newenche</h3>
-<h6>2013</h6>
-<p>Elaboración de un recetario del trabajo de investigación patrimonial gastronómica de los participantes del NODO de Turismo Rural, ruta Villarrica Lican-Ray.</p>
-</blockquote>
-<blockquote>
-<h3>Coordinadora</h3>
-<h6>2012</h6>
-<p>Coordinadora y relatora de la etapa de especialización del NODO de Turismo ruta Villarrica Lican Ray, PUC Villarrica.</p>
-</blockquote>
-<blockquote>
-<h3>Relator</h3>
-<h6>2012</h6>
-<p>Proyecto de recuperación patrimonial a través de la cocina, diseñando y coordinando el programa y realizando algunas relatorias, para las comunidades Colotue en Liquiñe, y Jose Luis Caniulef Afunalhue.</p>
-</blockquote>
-<blockquote>
-<h3>Profesora</h3>
-<h6>2009-2011</h6>
-<p>Clases particulares de cocina, Universidad Católica de Villarrica.</p>
-</blockquote>
-<blockquote>
-<h3>Docente</h3>
-<h6>2008</h6>
-<p>Docente de tecnología de los alimentos, y taller de cocina, Inacap, Chillán.</p>
-</blockquote>
-<blockquote>
-<h3>Profesora</h3>
-<h6>2008</h6>
-<p>Docente del primer diplomado Gastronomía con Identidad Local, Universidad Católica de Villarrica.</p>
-</blockquote>
-<blockquote>
-<h3>Administradora</h3>
-<h6>2000-2007</h6>
-<p>Administrativo de la institución El Circo del Mundo.</p>
-</blockquote>
-<blockquote>
-<h3>Encargada</h3>
-<h6>2001</h6>
-<p>Encargada de cuarto de pasta en la tratoria Santiago Chile.</p>
-</blockquote>
-<blockquote>
-<h3>Garzón</h3>
-<h6>1999-2000</h6>
-<p>Garzón en Quito Ecuador, y Cartagena de Indias Colombia.</p>
-</blockquote>
-<blockquote>
-<h3>Encargada</h3>
-<h6>1998-1999</h6>
-<p>Encargada de taller exploratorio de cocina Coco Pacheco, y encargada de eventos.</p>
-</blockquote>
-<h2 class="align-center">Educación</h2>
-<blockquote>
-<h3>Diplomado de Turismo Chile emprende</h3>
-<h6>2007 - 2008</h6>
-<p>Universidad Católica Villarrica</p>
-</blockquote>
-<blockquote>
-<h3>Estrategias y herramientas para el trabajo en equipo</h3>
-<h6>1995 - 2003</h6>
-<p>Universidad Católica Villarrica</p>
-</blockquote>
-<blockquote>
-<h3>Especialización en Panadería y Bollería</h3>
-<h6>2000</h6>
-<p>Instituto Inacap</p>
-</blockquote>
-<blockquote>
-<h3>Administración y producción gastronómica Mención cocina Internacional</h3>
-<h6>1996 - 1998</h6>
-<p>Instituto Inacap, sede Chesterton Santiago</p>
-</blockquote>
-<blockquote>
-<h3>Especialización en Panadería y Bollería</h3>
-<h6>1996</h6>
-<p>Instituto Chileno Británico de Cultura</p>
-</blockquote>
-<blockquote>
-<h3>Curso de computación y herramientas computacionales</h3>
-<h6>1995 - 1996</h6>
-<p>Universidad de Chile</p>
-</blockquote>
-<blockquote>
-<h3>1° y 2° año de Derecho</h3>
-<h6>1993 - 1994</h6>
-<p>Universidad Central Santiago, Chile</p>
-</blockquote>
-<blockquote>
-<h3>Secundaria</h3>
-<h6>1992</h6>
-<p>Oxford College</p>
-</blockquote>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>El Café</title>
         <author>
@@ -164,8 +19,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/8/escrito7-thumb.jpg" medium="image" />
             <category term="comida"/>
 
-        <updated>2022-11-10T08:12:23-04:00</updated>
-            <summary>
+        <updated>2020-05-20T16:37:00-04:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/8/escrito7-thumb.jpg" alt="" />
                     Aaaa, café. Bencina de la mañana. Invitado a muchas reuniones sociales. Se encuentra en tantas diferentes maneras: caliente, frío, natural, orgánico, procesado, dulce, amargo... El grupo étnico Oromoo (La Poderosa) se dice era el primero en descubrir el café y unas de sus calidades más&hellip;
@@ -227,8 +82,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/7/escrito6-thumb.jpg" medium="image" />
             <category term="comida"/>
 
-        <updated>2022-11-10T08:12:50-04:00</updated>
-            <summary>
+        <updated>2020-03-19T16:12:00-03:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/7/escrito6-thumb.jpg" alt="" />
                     Existen varios tipos o variedades de este tubérculo, en la Araucania destacando la papa meñarky por su forma y colores. Esta papa se cultiva mucho aquí es mas estas son de mi primera huertita que hicimos en familia. Se procura conservarla para no perderla. Cuando&hellip;
@@ -262,8 +117,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/6/escritos5-thumb.jpg" medium="image" />
             <category term="comida"/>
 
-        <updated>2022-11-10T08:14:26-04:00</updated>
-            <summary>
+        <updated>2020-02-13T16:24:00-03:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/6/escritos5-thumb.jpg" alt="" />
                     Changle que cientificamente es conocido con un nombre largo y complicado como (CLAVARIA CORALLOIDES, RAMARIA FLAVIA, RAMARIA VALDIVIANA) Tres especies que reciben este nombre común y de aspecto muy similar, que crecen en el piso de los bosques de hualles, (robles jóvenes) y otros árboles&hellip;
@@ -296,8 +151,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/5/escrito4-thumb.jpg" medium="image" />
             <category term="comida"/>
 
-        <updated>2022-11-10T08:14:52-04:00</updated>
-            <summary>
+        <updated>2020-01-09T09:55:00-03:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/5/escrito4-thumb.jpg" alt="" />
                     Yo no he viajado a Europa donde la tradición panadera es antigua y exquisita. Hoy en día existe la posibilidad de probar panes italianos y franceses por esto de la globalización, pero sin duda eso no alcanza más que para entender un formato de pan,&hellip;
@@ -344,8 +199,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/4/escrito3-thumb-2.jpg" medium="image" />
             <category term="comida"/>
 
-        <updated>2022-11-10T08:15:10-04:00</updated>
-            <summary>
+        <updated>2019-12-15T09:11:00-03:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/4/escrito3-thumb-2.jpg" alt="" />
                     El dihueñe es un parasito del reino de los hongos asociados específicamente al género de los nothofagus (hualles y pellines), pero también yo los he visto en el coihue pero le llaman a ese hongo llao llao, de aspecto similar al dihueñe, pero más dulce&hellip;
@@ -384,8 +239,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/2/escritos2-thumb-2.jpg" medium="image" />
             <category term="comida"/>
 
-        <updated>2022-11-10T08:16:02-04:00</updated>
-            <summary>
+        <updated>2019-09-17T17:10:00-03:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/2/escritos2-thumb-2.jpg" alt="" />
                     Quinua Quinoa / Dawe Zawe / La Kinwa Todos estos nombres para un solo producto, imagino que tiene muchos más, como su diversidad genética, es que es un planta muy versátil, en el sentido que se adapta a distintos climas, distintas alturas de cultivo, en fin es&hellip;
@@ -439,8 +294,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/3/escrito1-thumb-2.jpeg" medium="image" />
             <category term="comida"/>
 
-        <updated>2022-11-10T08:16:36-04:00</updated>
-            <summary>
+        <updated>2019-06-20T19:10:00-04:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/3/escrito1-thumb-2.jpeg" alt="" />
                     Ngülliü (El Piñon) Hablar del piñon no es tan simple como yo me imaginaba, o sea sentarme y solo escribir lo vivido a través de esta semilla. Pero hay tantos detalles tanta información que está adherida a esta semilla, tantos contextos históricos que dan material&hellip;
@@ -471,8 +326,8 @@
         <media:content url="https://www.geraldineovalle.com/media/posts/14/proyecto2-thumb.jpg" medium="image" />
             <category term="mis trabajos"/>
 
-        <updated>2022-11-10T08:03:12-04:00</updated>
-            <summary>
+        <updated>2015-08-21T17:15:00-03:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.geraldineovalle.com/media/posts/14/proyecto2-thumb.jpg" alt="" />
                     Esta fue una muy cortita intervención solo seis horas dividas en tres encuentros. Un grupo muy intenso el de Kurarrewe, muy propositivo, activo, diverso, participativo. Etas clases estaban insertas dentro de un programa largo que la verdad ignoro su nombre. Para esas intervenciones, debí estudiar&hellip;
@@ -496,6 +351,72 @@
 <p>Lo más interesante para mí, fue llegar a que ellos valoraran a todos los integrantes de la comunidad que trabaja el turismo, los que participaban del curso y los que no, ya que si uno cualquiera proporcionaba malas experiencias al visitante todos se veían afectados, fue una larga charla de prejuicios, y dejar y soltar todos aquellos bemoles que nos impiden ver al otro como un ser y no como alguien de quien me debo defender</p>
 <p>Bueno en fin les dejo fotitos también.</p>
 <p class="align-center"><a href="https://www.geraldineovalle.com/Servicio-Kurarrewe.pptx" target="_blank" rel="noopener noreferrer" class="btn">Ver el PowerPoint (.pptx | 7.8Mb)</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Clases: Comunidad José Luis Caniulef</title>
+        <author>
+            <name>Geraldine</name>
+        </author>
+        <link href="https://www.geraldineovalle.com/clases-comunidad-jose-luis-caniulef/"/>
+        <id>https://www.geraldineovalle.com/clases-comunidad-jose-luis-caniulef/</id>
+        <media:content url="https://www.geraldineovalle.com/media/posts/13/proyecto3-thumb.jpg" medium="image" />
+            <category term="mis trabajos"/>
+
+        <updated>2015-05-20T16:48:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.geraldineovalle.com/media/posts/13/proyecto3-thumb.jpg" alt="" />
+                    Esta es una comunidad muy especial, las personas que la conforman, están abiertas, receptivas, dispuestas a compartir. Fue un trabajo que disfrute mucho, fue primera vez que pude fluir así como en un viaje en el mar, no encontré resistencia alguna, al contrario mucha aceptación,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.geraldineovalle.com/media/posts/13/proyecto3-thumb.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Esta es una comunidad muy especial, las personas que la conforman, están abiertas, receptivas, dispuestas a compartir.</p>
+<p>Fue un trabajo que disfrute mucho, fue primera vez que pude fluir así como en un viaje en el mar, no encontré resistencia alguna, al contrario mucha aceptación, mucha diversidad también.</p>
+<p>Trabajamos con la Señora Gladys, mi amiga quien es dueña de un silente saber, porque ella no habla mucho tiene tremenda creatividad y es de esas mujeres como dicen por ahí, que con una papa y una zanahoria hace un festín.</p>
+<p>Este grupo estaba integrado por una parte importante de mujeres mapuches que pertenecen y participan activamente de la comunidad y otras hijas adoptadas como ellas mismas se hacen llamar.</p>
+<p>Para cerrar el curso, hicieron una presentación gastronómica donde invitaron a la comunidad fue muy bonito les dejo fotitos y la presentación PowerPoint.</p>
+<p>Parece que esto no lo he explicado anteriormente pero cada proyecto que hago, tomo fotos de cada etapa todas las que puedo, y para el cierre hago estos PowerPoint, donde los participantes pueden ver y reconocer el proceso vivido.</p>
+<p class="align-center"><a href="https://www.geraldineovalle.com/JLCaniulef.pptx" target="_blank" rel="noopener noreferrer" class="btn">Ver el PowerPoint (.pptx | 10.9Mb)</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Libro: Huellas y Sabores de Mujeres en la Cordillera</title>
+        <author>
+            <name>Geraldine</name>
+        </author>
+        <link href="https://www.geraldineovalle.com/libro-huellas-y-sabores-de-mujeres-en-la-cordillera/"/>
+        <id>https://www.geraldineovalle.com/libro-huellas-y-sabores-de-mujeres-en-la-cordillera/</id>
+        <media:content url="https://www.geraldineovalle.com/media/posts/16/huellas-sabores.png" medium="image" />
+            <category term="mis trabajos"/>
+            <category term="mis libros"/>
+
+        <updated>2014-12-22T17:39:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.geraldineovalle.com/media/posts/16/huellas-sabores.png" alt="" />
+                    Geraldine Ovalle con Natalia Barría son dos ganadoras del fondo regional de las artes (Fondart) en 2014 que a través de una investigación publicaron el libro, Huellas y Sabores de Mujeres en la Cordillera. El proyecto Patrimonio Culinario de la Araucanía: de Cordillera a Mar&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.geraldineovalle.com/media/posts/16/huellas-sabores.png" class="type:primaryImage" alt="" /></p>
+                <p>Geraldine Ovalle con Natalia Barría son dos ganadoras del fondo regional de las artes (Fondart) en 2014 que a través de una investigación publicaron el libro, <em><strong>Huellas y Sabores de Mujeres en la Cordillera</strong></em>. </p>
+<figure class="post__image"><img loading="lazy"  src="https://www.geraldineovalle.com/media/posts/16/hs-cordillera-b.webp" alt="" width="1200" height="675" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://www.geraldineovalle.com/media/posts/16/responsive/hs-cordillera-b-xs.webp 320w ,https://www.geraldineovalle.com/media/posts/16/responsive/hs-cordillera-b-sm.webp 480w ,https://www.geraldineovalle.com/media/posts/16/responsive/hs-cordillera-b-md.webp 768w"></figure>
+<p>El proyecto <em><strong>Patrimonio Culinario de la Araucanía: de Cordillera a Mar</strong></em> tiene como objetivo, conocer y describir el patrimonio culinario de la zona cordillerana de la Araucanía.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-c-2.webp" data-size="1200x675"><img loading="lazy" src="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-c-2-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-d-2.webp" data-size="1200x675"><img loading="lazy" src="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-d-2-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-e-2.webp" data-size="1200x675"><img loading="lazy" src="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-e-2-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-f-2.webp" data-size="1200x675"><img loading="lazy" src="https://www.geraldineovalle.com/media/posts/16/gallery/hs-cordillera-f-2-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+</div></div>
+<p>Es un viaje por cinco comunas consideradas ¨cordilleranas¨ y la vida de sus habitantes locales, algunos nacidos y criados  otros llegados por distintas razones, sentados en sus cocinas hicimos todas estas conversaciones. El proyecto fue financiado por Fondart regional, Araucania  2014.</p>
+<p class="align-left">El libro <em><strong>Huellas y Sabores de Mujeres en la Cordillera</strong></em> se envió a imprimir a fines de octubre 2014 con una primera impresión de 250 copias.</p>
+<p class="align-center"><a href="https://www.geraldineovalle.com/huellas-sabores-cordillera.epub" target="_blank" rel="noopener noreferrer" class="btn">Descargar Libro (EPUB)</a> <a href="https://www.geraldineovalle.com/huellas-sabores-cordillera.mobi" target="_blank" rel="noopener noreferrer" class="btn">Descargar Libro (MOBI)</a> <a href="https://www.facebook.com/Patrimonio-Culinario-de-la-Araucan%C3%ADa-de-Cordillera-a-Mar-725596727463045/" target="_blank" rel="noopener noreferrer" class="btn">Visita Patrimonio Culinario de la Araucanía: de Cordillera a Mar (Facebook)</a></p>
             ]]>
         </content>
     </entry>
